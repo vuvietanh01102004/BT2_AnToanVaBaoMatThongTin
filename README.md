@@ -1,8 +1,9 @@
 # BÀI TẬP 2: CHỮ KÝ SỐ TRONG FILE PDF  
 ## Môn: An toàn và Bảo mật Thông tin  
 ## Giảng viên: Đỗ Duy Cốp  
-## Lớp: K58KTP  
-## Sinh viên: Nguyễn Như Khiêm  
+## Lớp: K58KTP.K01
+## Sinh viên: Vũ Việt Anh
+## MSSV: K225480106082
 ## Hạn nộp: 31/10/2025
 
 # Bài làm
