@@ -68,5 +68,4 @@ thì DSS giúp duy trì khả năng xác thực lâu dài cho chữ ký và th�
 - Thông tin thời gian /M chỉ là chuỗi văn bản do phần mềm ký chèn vào, có thể sửa đổi nên không có giá trị pháp lý.
 - Ngược lại, timestamp RFC 3161 là tem thời gian điện tử được ký số bởi TSA (Tổ chức cung cấp dịch vụ thời gian tin cậy), đảm bảo tính xác thực và toàn vẹn, do đó có giá trị pháp lý để chứng minh thời điểm ký.
 
-## 3. Quy trình tạo là lưu chữ kí trong PDF
 
